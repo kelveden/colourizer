@@ -1,5 +1,7 @@
 # colourizer
 
+Highlight/colourize specific text in stdout. Inspired by: [ams-clj/clansi](https://github.com/ams-clj/clansi)
+
 ## Installation
 
 	lein uberjar
